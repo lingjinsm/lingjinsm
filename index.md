@@ -5,17 +5,15 @@
 
 # 说明
 
-1.把 “censer:” 换成 “https://”
-2.把 “-“ 换成 “.”
-3.收藏本页面以获取最新地址
+1.收藏本页面以获取最新地址
 
 # 凌禁字母圈论坛
-```markdown
-592sm.ml
+
+https://592sm.ml
 
 # 夜色魅惑
-```markdown
-ysmh.ga
+
+https://ysmh.ga
 
 # 组织和联系方式
 ·站长 Telegram: https://t.me/cangsangS
