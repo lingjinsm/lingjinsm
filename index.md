@@ -14,11 +14,11 @@
 
 # 凌禁字母圈论坛
 
-592sm.ml   [@592sm.ml](https://592sm.ml)
+www.592sm.ml   [点击访问](https://592sm.ml)
 
 # 夜色魅惑
 
-ysmh.ga    [@ysmh.ga](https://ysmh.ga) 
+www.ysmh.ga    [点击访问](https://ysmh.ga) 
 
 # 组织和联系方式
 - 站长 Telegram: [@cangsangS](https://t.me/cangsangS)
