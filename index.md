@@ -6,14 +6,15 @@
 # 说明
 
 1.收藏本页面以获取最新地址
+2.复制 如：592sm.ml 粘贴到浏览器打开即可
 
 # 凌禁字母圈论坛
 
-https://592sm.ml
+592sm.ml
 
 # 夜色魅惑
 
-https://ysmh.ga
+ysmh.ga
 
 # 组织和联系方式
 ·站长 Telegram: https://t.me/cangsangS
