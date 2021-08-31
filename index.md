@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 不要使用国内浏览器
 
-You can use the [editor on GitHub](https://github.com/lingjinsm/lingjinsm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1.经证实，国内浏览器如 UC 等会在用户未主动同意的情况下屏蔽部分“不合规”网站，后花园和黑沼泽就在内。
+2.如果下文的地址无法访问，iOS 设备用户请使用 Safari，Android 设备用户请使用 Chrome，Firefox 或 Opera 等任意国际领先的知名浏览器访问。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 说明
 
-### Markdown
+1.把 “censer:” 换成 “https://”
+2.把 “-“ 换成 “.”
+3.收藏本页面以获取最新地址
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# 凌禁字母圈论坛
 ```markdown
-Syntax highlighted code block
+592sm.ml
 
-# Header 1
-## Header 2
-### Header 3
+# 夜色魅惑
+```markdown
+ysmh.ga
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingjinsm/lingjinsm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 组织和联系方式
+·站长 Telegram: https://t.me/cangsangS
+·凌禁字母圈论坛 Telegram 通知频道: https://t.me/lingjinsm
+·夜色魅惑      Telegram 通知频道:https://t.me/ysmha
