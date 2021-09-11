@@ -17,7 +17,7 @@ www.592sm.ml   [点击访问](https://592sm.ml)
 
 ### 备用
 
-zimuquan.ml    [点击访问](http://smluntan.ml/)
+smluntan.ml     [点击访问](http://smluntan.ml/)
 
 smluntan.ml    [点击访问](http://zimuquan.ml/)
 
