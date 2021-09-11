@@ -1,4 +1,4 @@
-更新于 2021/08/31
+更新于 2021/09/12
 
 # 不要使用国内浏览器
 
@@ -14,6 +14,10 @@
 # 凌禁字母圈论坛
 
 www.592sm.ml   [点击访问](https://592sm.ml)
+
+### 备用
+zimuquan.ml    [点击访问](http://smluntan.ml/)
+smluntan.ml    [点击访问](http://zimuquan.ml/)
 
 # 夜色魅惑
 
