@@ -15,12 +15,6 @@
 
 www.592sm.ml   [点击访问](https://592sm.ml)
 
-### 备用
-
-smluntan.ml     [点击访问](http://smluntan.ml/)
-
-zimuquan.ml    [点击访问](http://zimuquan.ml/)
-
 # 夜色魅惑
 
 www.ysmh.ga    [点击访问](https://ysmh.ga) 
