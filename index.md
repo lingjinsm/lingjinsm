@@ -15,13 +15,10 @@
 
 www.592sm.ml   [点击访问](https://592sm.ml)
 
-# 夜色魅惑
-
-www.ysmh.ga    [点击访问](https://ysmh.ga) 
 
 # 组织和联系方式
 - 站长 Telegram: [@cangsangS](https://t.me/cangsangS)
 
 - 凌禁字母圈论坛 Telegram 通知频道:[@lingjinsm](https://t.me/lingjinsm)
 
-- 夜色魅惑      Telegram 通知频道:[@ysmha](https://t.me/ysmha)
+- 凌禁字母圈论坛 Telegram 讨论交流:[@lingjin_sm](https://t.me/lingjin_sm)
