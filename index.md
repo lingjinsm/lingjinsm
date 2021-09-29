@@ -15,6 +15,13 @@
 
 www.592sm.ml   [点击访问](https://592sm.ml)
 
+# 凌禁云最新网址
+凌禁云介绍：
+
+科学上网、梯子、VPN 工具
+
+ai.lingjinyun.top   [点击访问](https://ai.lingjinyun.top)
+
 
 # 组织和联系方式
 - 站长 Telegram: [@cangsangS](https://t.me/cangsangS)
