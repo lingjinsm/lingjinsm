@@ -24,7 +24,7 @@ ai.lingjinyun.top   [点击访问](https://ai.lingjinyun.top)
 
 
 # 组织和联系方式
-- 站长 Telegram: [@cangsangS](https://t.me/cangsangS)
+- 站长 Telegram: [@lingjinY](https://t.me/lingjinY)
 
 - 凌禁字母圈论坛 Telegram 通知频道:[@lingjinsm](https://t.me/lingjinsm)
 
