@@ -22,7 +22,7 @@ www.lingjinyun.com  [点击访问](https://lingjinyun.com/)
 
 
 # 组织和联系方式
-- 站长 Telegram: [@lingjinY](https://t.me/lingjinY)
+- 站长 Telegram: [@cangsangS](https://t.me/cangsangS)
 
 - 凌禁字母圈论坛 Telegram 通知频道:[@lingjinsm](https://t.me/lingjinsm)
 
