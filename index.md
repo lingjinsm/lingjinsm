@@ -1,4 +1,4 @@
-更新于 2021/09/30
+更新于 2021/10/06
 
 # 不要使用国内浏览器
 
@@ -18,7 +18,7 @@ www.592sm.ml   [点击访问](https://592sm.ml)
 # 凌禁交友盲盒 - 交友的新方式，珍惜这段缘！
 
 
-lingjinyun.com   [点击访问](https://lingjinyun.com/)
+wwww.lingjinyun.com   [点击访问](https://lingjinyun.com/)
 
 
 # 组织和联系方式
