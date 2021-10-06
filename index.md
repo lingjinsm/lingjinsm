@@ -15,12 +15,10 @@
 
 www.592sm.ml   [点击访问](https://592sm.ml)
 
-# 凌禁云最新网址
-凌禁云介绍：
+# 凌禁交友盲盒 - 交友的新方式，珍惜这段缘！
 
-科学上网、梯子、VPN 工具
 
-ai.lingjinyun.top   [点击访问](https://ai.lingjinyun.top)
+lingjinyun.com   [点击访问](https://lingjinyun.com/)
 
 
 # 组织和联系方式
