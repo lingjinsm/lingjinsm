@@ -18,7 +18,7 @@ www.592sm.ml   [点击访问](https://592sm.ml)
 # 凌禁交友盲盒 - 交友的新方式，珍惜这段缘！
 
 
-www.lingjinyun.com  [点击访问](https://lingjinyun.com/)
+www.lingjin.top  [点击访问](https://lingjin.top/)
 
 
 # 组织和联系方式
